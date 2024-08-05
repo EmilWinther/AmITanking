@@ -1,7 +1,7 @@
 ## Interface: 110000
-## Title: Aggro Tracker
-## Author: YourName
+## Title: Am I Tanking?
+## Author: Emil
 ## Version: 1.0
-## SavedVariables: AggroTrackerDB
+## SavedVariables: AmITankingDB
 
-AggroTracker.lua
+AmITanking.lua
