@@ -1,1 +1,7 @@
+## Interface: 110000
+## Title: Am I Tanking?
+## Author: Emil
+## Version: 1.0
+## SavedVariables: AmITankingDB
 
+AmITanking.lua
